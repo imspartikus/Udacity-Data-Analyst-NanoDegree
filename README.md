@@ -1,2 +1,2 @@
 # Udacity-Data-Analyst-NanoDegree
-udacity data analyst degree
+udacity data analyst nanodegree
